@@ -1,1 +1,1 @@
-# Interfaz para utilizar api SOAP de transbank
+# Interfaz para utilizar API SOAP de transbank
