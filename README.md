@@ -1,4 +1,4 @@
-# Sdk de Go para utilizar el API SOAP de transbank
+# Go SDK Transbank SOAP
 
 <img align="right" width="159px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png">
 
